@@ -22,6 +22,6 @@ if __name__ == '__main__':
             speak("Moving on last news")
             speak(art['title'])
             break
-        speak(art['title'])
-        speak("Alright mundakke hogona")
-    speak("Thank you have a goood day")
+#         speak(art['title'])
+#         speak("Alright mundakke hogona")
+#     speak("Thank you have a goood day")
