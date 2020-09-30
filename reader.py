@@ -24,4 +24,4 @@ if __name__ == '__main__':
             break
 #         speak(art['title'])
 #         speak("Alright mundakke hogona")
-#     speak("Thank you have a goood day")
+    speak("Thank you have a goood day")
